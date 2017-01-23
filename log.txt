@@ -1,0 +1,12 @@
+http://data.betfair.com/datastore/downloadfile.aspx?file=c5a08a62bbddf7b592bf948d97f63f10,/datastore/data/bfinf_horse_161219to161225_161228120000.zip,c5a08a62bbddf7b592bf948d97f63f10,2017-01-23 19:46:49.734778
+http://data.betfair.com/datastore/downloadfile.aspx?file=c5a08a62bbddf7b592bf948d97f63f10,/datastore/data/bfinf_horse_161219to161225_161228120000.zip,c5a08a62bbddf7b592bf948d97f63f10,2017-01-23 19:47:57.509700
+http://data.betfair.com/datastore/downloadfile.aspx?file=a66f71e4fcc4c328ef35f0299b02c142,/datastore/data/bfinf_horse_170102to170108_170111120004.zip,a66f71e4fcc4c328ef35f0299b02c142,2017-01-23 19:48:14.947477
+http://data.betfair.com/datastore/downloadfile.aspx?file=81183fddf41d19a4bd4517856bce4096,/datastore/data/bfinf_horse_170109to170115_170118120002.zip,81183fddf41d19a4bd4517856bce4096,2017-01-23 19:48:15.358642
+http://data.betfair.com/datastore/downloadfile.aspx?file=8d2979d671312e740f8a419551d462d5,/datastore/data/bfinf_horse_161212to161218_161221120001.zip,8d2979d671312e740f8a419551d462d5,2017-01-23 19:48:24.616177
+http://data.betfair.com/datastore/downloadfile.aspx?file=3130cd351454e326576bfbe2ac6fb03b,/datastore/data/bfinf_horse_161226to170101_170104120002.zip,3130cd351454e326576bfbe2ac6fb03b,2017-01-23 19:48:29.757314
+http://data.betfair.com/datastore/downloadfile.aspx?file=b2c6b7c99a2d9700c3b04f10e62b74da,/datastore/data/bfinf_horse_161205to161211_161214120005.zip,b2c6b7c99a2d9700c3b04f10e62b74da,2017-01-23 19:49:13.378715
+http://data.betfair.com/datastore/downloadfile.aspx?file=302838b20658be3c729b8d597cea9aee,/datastore/data/bfinf_horse_161121to161127_161130120001.zip,302838b20658be3c729b8d597cea9aee,2017-01-23 19:49:13.795990
+http://data.betfair.com/datastore/downloadfile.aspx?file=6ddad5266c2f6314785ec0f0a8409d14,/datastore/data/bfinf_horse_161128to161204_161207120000.zip,6ddad5266c2f6314785ec0f0a8409d14,2017-01-23 19:49:15.988496
+http://data.betfair.com/datastore/downloadfile.aspx?file=ffdfd293f32c03f7725179106a3b3b36,/datastore/data/bfinf_horse_161107to161113_161116120004.zip,ffdfd293f32c03f7725179106a3b3b36,2017-01-23 19:49:25.843002
+http://data.betfair.com/datastore/downloadfile.aspx?file=f56b08e22f32a4d315625e2628efc19a,/datastore/data/bfinf_horse_161114to161120_161123120003.zip,f56b08e22f32a4d315625e2628efc19a,2017-01-23 19:49:27.980456
+http://data.betfair.com/datastore/downloadfile.aspx?file=333c6196115fef1c16a8b4b8f0fad4a0,/datastore/data/bfinf_horse_161031to161106_161109120004.zip,333c6196115fef1c16a8b4b8f0fad4a0,2017-01-23 19:54:54.853264
